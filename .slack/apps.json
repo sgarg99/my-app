@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "internal-sandbox": {
+      "name": "internal-sandbox",
+      "app_id": "A04EQP6QVHS",
+      "enterprise_id": "E013GKFQQTB",
+      "team_id": "T01PY724468",
+      "IsDev": false
+    }
+  },
+  "default": "internal-sandbox"
+}
